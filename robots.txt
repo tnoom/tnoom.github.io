@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tnoom.github.io/aMb/sitemap.aMb.gz
